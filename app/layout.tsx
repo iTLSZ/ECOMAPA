@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'MAPA DE REDES',
-  description: 'Ecomapa Interactivo - JAC Popayán',
+  description: 'Mapa de Redes Interactivo - JAC Popayán',
   generator: '...',
 }
 
