@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'ECOMAPA',
+  title: 'MAPA DE REDES',
   description: 'Ecomapa Interactivo - JAC Popayán',
   generator: '...',
 }

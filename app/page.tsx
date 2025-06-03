@@ -516,7 +516,7 @@ export default function EcomapaElegante() {
           <div className="relative">
             <h1 className="text-4xl font-bold bg-gradient-to-r from-gray-700 via-blue-600 to-indigo-600 bg-clip-text text-transparent mb-2 flex items-center justify-center gap-3">
               <Sparkles className="w-8 h-8 text-amber-500" />
-              Ecomapa Interactivo - JAC Popayán
+              Mapa de Redes Interactivo - JAC Popayán
               <Sparkles className="w-8 h-8 text-amber-500" />
             </h1>
             <p className="text-gray-600 text-lg">Relaciones Interinstitucionales • Tejido Comunitario en Acción</p>
